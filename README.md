@@ -9,7 +9,7 @@
   <a href="https://www.linkedin.com/in/andrzej-apanel-3a433b184/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="mailto:your.email@example.com">
+  <a href="mailto:aposha84@gmail.com">
     <img src="https://img.shields.io/badge/Email-2D3748?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
   <img src="https://img.shields.io/badge/Open%20to%20work-2EA44F?style=for-the-badge" alt="Open to work"/>
@@ -22,7 +22,7 @@
 I'm a full-stack developer who enjoys turning real problems into reliable, well-structured products. I care about readable code, automated tests and shipping things that work in production.
 
 - 🔭 Currently working on **Job Tracker**, a full-stack job-search management app
-- 🌱 Currently learning: _[add what you're learning, e.g. system design, AWS, Kubernetes]_
+- 🌱 Currently learning: _[Python, Angular, PHP]_
 - 💼 Looking for: _[e.g. Junior / Mid Full-Stack Developer roles, remote or Warsaw]_
 - 🗣️ Languages: _[e.g. Polish, English, Russian]_
 
