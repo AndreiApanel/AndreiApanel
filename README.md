@@ -1,4 +1,4 @@
-[README.md](https://github.com/user-attachments/files/34153405/README.md)
+
 <h1 align="center">Andrei Apanel</h1>
 <p align="center">
   <b>Full-Stack Developer</b> · Warsaw, Poland<br/>
