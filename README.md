@@ -47,14 +47,6 @@ I'm a full-stack developer who enjoys turning real problems into reliable, well-
 | [**Next Expense AI**](https://github.com/AndreiApanel/next-expense-ai) | Expense tracking application. _[add a one-line description]_ | TypeScript, Next.js |
 | [**Marvel Information Portal**](https://github.com/AndreiApanel/Marvel-information-portal) | Web portal for browsing Marvel characters and comics. | JavaScript, React |
 
-## GitHub Stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=AndreiApanel&show_icons=true&theme=default&hide_border=true" alt="GitHub stats"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndreiApanel&layout=compact&hide_border=true" alt="Top languages"/>
-</p>
-
----
 
 <p align="center">
   <i>Open to new opportunities. Feel free to reach out.</i>
