@@ -38,7 +38,7 @@ I'm a full-stack developer who enjoys turning real problems into reliable, well-
 | **Backend** | Node.js, Express.js, Python, FastAPI, REST API design and integration, file uploads |
 | **Auth & Security** | JWT, role-based access control (RBAC), secure API practices, OWASP basics |
 | **Databases** | PostgreSQL, MySQL, MongoDB, Redis, SQL, schema design |
-| **AI & LLM** | OpenAI API, Hugging Face, LangChain (basic), prompt engineering, RAG basics, AI-assisted development |
+| **AI & LLM** | OpenAI API, Claude, Codex, Hugging Face, LangChain (basic), prompt engineering, RAG basics, AI-assisted development |
 | **DevOps & Tools** | Docker (basic), Git, GitHub, GitLab, Bitbucket, CI/CD basics, Postman, VS Code, npm |
 | **Other** | Autodesk Fusion 360 |
  
