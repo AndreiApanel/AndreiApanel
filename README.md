@@ -19,34 +19,31 @@
 
 ## About
 
+About
+
 I'm a full-stack developer who enjoys turning real problems into reliable, well-structured products. I care about readable code, automated tests and shipping things that work in production.
 
-- 🔭 Currently working on **Job Tracker**, a full-stack job-search management app
-- 🌱 Currently learning: _[Python, Angular, PHP]_
-- 💼 Looking for: _[e.g. Junior / Mid Full-Stack Developer roles, remote or Warsaw]_
-- 🗣️ Languages: _[e.g. Polish, English, Russian]_
-
-## Tech Stack
-
-<p>
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,python,fastapi,postgres,redis,docker,git,github&perline=12" alt="Tech stack"/>
-</p>
-
-| Area | Technologies |
-| --- | --- |
-| **Frontend** | React, TypeScript, JavaScript, Next.js |
-| **Backend** | Python, FastAPI, Node.js |
-| **Data** | PostgreSQL, Redis |
-| **Tooling** | Docker, Git, GitHub |
-
-## Featured Projects
-
-| Project | Description | Stack |
-| --- | --- | --- |
-| [**Job Tracker**](https://github.com/AndreiApanel/Job_Tracker) | Track job applications from first contact to offer, with a kanban pipeline. Tested and containerized. | FastAPI, React, TypeScript, PostgreSQL, Redis |
-| [**Next Expense AI**](https://github.com/AndreiApanel/next-expense-ai) | Expense tracking application. _[add a one-line description]_ | TypeScript, Next.js |
-| [**Marvel Information Portal**](https://github.com/AndreiApanel/Marvel-information-portal) | Web portal for browsing Marvel characters and comics. | JavaScript, React |
-
+🔭 Currently working on Job Tracker, a full-stack job-search management app
+🌱 Currently learning: advanced TypeScript patterns, AI agents and automation workflows, vector databases, cloud deployment (AWS, Vercel)
+💼 Looking for: Full-Stack Developer roles (Warsaw or remote)
+🗣️ Languages: English (A2), Polish (B1)
+Tech Stack
+<p> <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,redux,nextjs,tailwind,bootstrap,sass,nodejs,express,python,fastapi,mysql,postgres,mongodb,redis,docker,git,github,gitlab,bitbucket,postman,vscode,npm&perline=13" alt="Tech stack"/> </p>
+Area	Technologies
+Frontend	HTML5, CSS3, JavaScript (ES6+), TypeScript, React.js, Redux, Next.js, responsive web design
+Styling	Tailwind CSS, Bootstrap, Sass (SCSS), Less
+Backend	Node.js, Express.js, Python, FastAPI, REST API design and integration, file uploads
+Auth & Security	JWT, role-based access control (RBAC), secure API practices, OWASP basics
+Databases	PostgreSQL, MySQL, MongoDB, Redis, SQL, schema design
+AI & LLM	OpenAI API, Hugging Face, LangChain (basic), prompt engineering, RAG basics, AI-assisted development
+DevOps & Tools	Docker (basic), Git, GitHub, GitLab, Bitbucket, CI/CD basics, Postman, VS Code, npm
+Other	Autodesk Fusion 360
+Featured Projects
+Project	Description	Stack
+Job Tracker	Track job applications from first contact to offer, with a kanban pipeline. Tested and containerized.	FastAPI, React, TypeScript, PostgreSQL, Redis
+Next Expense AI	Expense tracking app with AI features. Live demo	TypeScript, Next.js
+Marvel Information Portal	Web portal for browsing Marvel characters and comics.	JavaScript, React
+<p align="center"> <i>Open to new opportunities. Feel free to reach out on LinkedIn.</i> </p>
 
 <p align="center">
   <i>Open to new opportunities. Feel free to reach out.</i>
