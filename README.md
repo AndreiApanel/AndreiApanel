@@ -30,6 +30,7 @@ I'm a full-stack developer who enjoys turning real problems into reliable, well-
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,redux,nextjs,tailwind,bootstrap,sass,nodejs,express,python,fastapi,mysql,postgres,mongodb,redis,docker,git,github,gitlab,bitbucket,postman,vscode,npm&perline=13" alt="Tech stack"/>
 </p>
+
 | Area | Technologies |
 | --- | --- |
 | **Frontend** | HTML5, CSS3, JavaScript (ES6+), TypeScript, React.js, Redux, Next.js, responsive web design |
